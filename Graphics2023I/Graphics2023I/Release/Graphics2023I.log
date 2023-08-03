@@ -1,0 +1,4 @@
+﻿  CCanvas.cpp
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(403,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(404,19): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(464,3): error C2143: error de sintaxis: falta ';' delante de 'return'

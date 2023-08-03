@@ -1,0 +1,67 @@
+﻿  CCanvas.cpp
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(391,11): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(395,15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(398,11): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(402,15): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(657,77): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(657,60): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(657,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(657,26): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(658,77): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(658,60): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(658,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(658,26): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(659,77): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(659,60): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(659,43): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(659,26): warning C4244: 'argumento': conversión de 'const float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(680,49): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(680,28): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(688,24): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(689,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(694,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(695,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(708,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(709,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(711,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(712,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(724,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(725,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(727,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(728,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(731,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(732,25): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(751,72): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(751,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(751,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(751,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(753,72): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(753,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(753,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(753,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(755,72): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(755,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(755,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(755,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(767,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(767,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(767,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(767,20): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(769,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(769,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(769,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(769,20): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(771,71): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(771,54): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(771,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(771,20): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(778,72): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(778,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(778,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(778,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(780,72): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(780,55): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(780,38): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(780,21): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\ximen\source\repos\Graphics2023I\Graphics2023I\CCanvas.cpp(472): warning C4715: 'CCanvas::Address': no todas las rutas de acceso de control devuelven un valor
+  Graphics2023I.vcxproj -> C:\Users\ximen\source\repos\Graphics2023I\Debug\Graphics2023I.exe
